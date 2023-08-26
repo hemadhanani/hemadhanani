@@ -8,4 +8,4 @@
 2. Deposit management component is responsible for the management of all types of deposit accounts offered by the bank
 3. list
 
-==As customers demand more control and autonomy over their finances
+==As== customers demand more control and autonomy over their finances
