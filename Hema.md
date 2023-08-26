@@ -83,4 +83,7 @@ Most financial firms are ***transforming*** their application landscapes, and co
   > The implementation of new requirements – especially triggered by regulation and digitalization – is driving
 
 * costs in an increasingly competitive environment
+
+
+https://www.freeimages.com/photo/williamstown-1057646
   
