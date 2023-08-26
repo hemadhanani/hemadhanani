@@ -45,7 +45,7 @@ Most financial firms are ***transforming*** their application landscapes, and co
 
 
 
-> #### Core banking became possible with the advent of computer and
+> ####Core banking became possible with the advent of computer and
 >
 > - telecommunication technology that allowed information
 > - to be shared between bank branches
