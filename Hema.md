@@ -33,4 +33,5 @@ Most financial firms are ***transforming*** their application landscapes, and co
 
 
 > A flexible core system built on modern technology can mean the difference between success and failure for many financial
+>
 > institutions. All banks, regardless of size and geographic location, need to be able to quickly launch new products
