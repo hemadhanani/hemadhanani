@@ -92,5 +92,5 @@ https://www.freeimages.com/photo/williamstown-1057646
 
 
 
-Migrations and especially a change of the core banking solution are amongst the most complex IT procedures [1]
+[Migrations and especially a change of the core banking solution are amongst the most complex IT procedures] [1]
   
