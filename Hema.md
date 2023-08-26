@@ -58,4 +58,10 @@ Most financial firms are ***transforming*** their application landscapes, and co
 3. operations creating a Centralized Online Real-time Exchange (or Environment).
 7. This meant that all the bank's branches
 8.
- 
+
+
+- Core banking is a back-end system
+- like loan management, withdrawals
+- deposits and payments in real-time
+- The term CORE stands for Centralized Online Real-time Environment
+
