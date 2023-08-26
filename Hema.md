@@ -42,3 +42,12 @@ Most financial firms are ***transforming*** their application landscapes, and co
 > 
 >
 >>The leading trend in establishing these critical capabilities is componentization
+
+
+
+> #### Core banking became possible with the advent of computer and
+>
+> - telecommunication technology that allowed information
+> - to be shared between bank branches
+> 
+> *quickly* and **efficiently**.
