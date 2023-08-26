@@ -71,6 +71,8 @@ Most financial firms are ***transforming*** their application landscapes, and co
 
 * Core Banking functions include new accounts
 * creation and customer relationship management,
+
   interest calculations, deposits
+  
 * and withdrawals processing
   
