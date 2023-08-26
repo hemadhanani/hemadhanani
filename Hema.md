@@ -75,4 +75,12 @@ Most financial firms are ***transforming*** their application landscapes, and co
   interest calculations, deposits
   
 * and withdrawals processing
+
+
+* Banks are subject to ever higher cost pressures characterized by
+* shrinking margins and increasing investment needs.
+
+> The implementation of new requirements – especially triggered by regulation and digitalization – is driving
+
+* costs in an increasingly competitive environment
   
