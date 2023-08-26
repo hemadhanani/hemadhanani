@@ -25,3 +25,6 @@ This is first line. <br> And this is second line.
 Key catalysts shaping today’s**banking industry** 
 Banks and their _technology_ teams need to address
 Most financial firms are**transforming**their application landscapes
+
+A flexible core system built on modern technology can mean the difference between success and _failure_ for many financial institutions. All banks, regardless of size and *geographic location*.
+
