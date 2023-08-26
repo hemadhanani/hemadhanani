@@ -14,4 +14,4 @@
 ---------As customers demand more control and autonomy over their finances
 <H2>As customers demand more control and autonomy over their finances
 
-<P>As customers demand more control and autonomy over their finances, and in view of the pandemic that locked so many of us inside, banks are now introducing more customer-friendly core banking solutions to boost customer satisfaction and win more loyal customers.
+<P>As customers demand more control and autonomy. </P> over their finances, and in view of the pandemic that locked so many of us inside, banks are now introducing more customer-friendly core banking solutions to boost customer satisfaction and win more loyal customers.
