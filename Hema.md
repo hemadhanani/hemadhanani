@@ -36,3 +36,8 @@ Most financial firms are ***transforming*** their application landscapes, and co
 >
 > 
 > institutions. All banks, regardless of size and geographic location, need to be able to quickly launch new products
+
+
+> Today’s core banking market is adapting to these changes in the banking industry, especially digital banking.
+>
+>>The leading trend in establishing these critical capabilities is componentization
