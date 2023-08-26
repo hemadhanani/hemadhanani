@@ -29,4 +29,4 @@ Most financial firms are**transforming**their application landscapes
 A flexible core system built on modern technology can mean the difference between success and _failure_ for many financial institutions. All banks, regardless of size and *geographic location*.
 
 
-Most financial firms are transforming their application landscapes, and core modernization is becoming the norm. ***These transformations take time***.
+Most financial firms are ***transforming*** their application landscapes, and core modernization is becoming the norm. ***These transformations take time***.
