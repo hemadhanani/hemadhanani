@@ -66,4 +66,11 @@ Most financial firms are ***transforming*** their application landscapes, and co
 - The term CORE stands for Centralized Online Real-time Environment
     - which implies that the customer can experience the bank as a single entity
     - regardless of their location with the aim to provide
+ 
+
+
+* Core Banking functions include new accounts
+* creation and customer relationship management,
+  interest calculations, deposits
+* and withdrawals processing
   
