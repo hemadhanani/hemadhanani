@@ -64,6 +64,6 @@ Most financial firms are ***transforming*** their application landscapes, and co
 - like loan management, withdrawals
 - deposits and payments in real-time
 - The term CORE stands for Centralized Online Real-time Environment
-  - which implies that the customer can experience the bank as a single entity
-  - regardless of their location with the aim to provide
+    - which implies that the customer can experience the bank as a single entity
+    - regardless of their location with the aim to provide
   
