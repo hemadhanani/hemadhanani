@@ -57,4 +57,6 @@ Most financial firms are ***transforming*** their application landscapes, and co
 2. core banking applications to support
 3. operations creating a Centralized Online Real-time Exchange (or Environment).
 7. This meant that all the bank's branches
-8. 
+8.
+  4. Deposits made were reflected immediately on the bank's servers
+  11. customer could withdraw the deposited money  
