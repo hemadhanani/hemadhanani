@@ -84,7 +84,7 @@ Most financial firms are ***transforming*** their application landscapes, and co
 
   > The implementation of new requirements – especially triggered by regulation and digitalization – is driving
 
-* costs in an increasingly competitive environment
+* costs in an increasingly competitive environment [^1]
 
 
 https://www.freeimages.com/photo/williamstown-1057646
@@ -94,7 +94,7 @@ https://www.freeimages.com/photo/williamstown-1057646
 
 
 
-[Migrations and especially a change of the core banking solution are amongst the most complex IT procedures] [1]
+[^1]: Migrations and especially a change of the core banking solution are amongst the most complex IT procedures [1]
 
 
 [markdownguide](https://www.markdownguide.org/basic-syntax/#blockquotes-1)
