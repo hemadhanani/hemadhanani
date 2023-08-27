@@ -57,7 +57,7 @@ Most financial firms are ***transforming*** their application landscapes, and co
 2. core banking applications to support
 3. operations creating a Centralized Online Real-time Exchange (or Environment).
 7. This meant that all the bank's branches
-  1. khflkdshfk
+         1. khflkdshfk
 
 
 - Core banking is a back-end system
