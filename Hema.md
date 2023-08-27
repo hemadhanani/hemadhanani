@@ -8,7 +8,7 @@
 2. Deposit management component is responsible for the management of all types of deposit accounts offered by the bank
 3. list
 
-=========As customers demand more control and autonomy over their finances
+As customers demand more control and autonomy over their finances
 <H1>As customers demand more control and autonomy over their finances
 
 ---------As customers demand more control and autonomy over their finances
@@ -57,7 +57,7 @@ Most financial firms are ***transforming*** their application landscapes, and co
 2. core banking applications to support
 3. operations creating a Centralized Online Real-time Exchange (or Environment).
 7. This meant that all the bank's branches
-8.
+  1. khflkdshfk
 
 
 - Core banking is a back-end system
