@@ -59,8 +59,8 @@ Most financial firms are ***transforming*** their application landscapes, and co
       1. nb
       2. huihyh
 7. This meant that all the bank's branches
-         1. khflkdshfk
-
+      1. khflkdshfk
+      2. hh
 
 - Core banking is a back-end system
 - like loan management, withdrawals
