@@ -56,6 +56,8 @@ Most financial firms are ***transforming*** their application landscapes, and co
 1. Over the following 30 years most banks
 2. core banking applications to support
 3. operations creating a Centralized Online Real-time Exchange (or Environment).
+      1. nb
+      2. huihyh
 7. This meant that all the bank's branches
          1. khflkdshfk
 
